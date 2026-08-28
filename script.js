@@ -6,6 +6,6 @@ setTimeout(function(){
   title_index.innerHTML=String(titleNum)+" Second!";
   setInterval(function(){
     titleNum++;
-    title_index.innerHTML=String(titleNum)+" Second!";
+    title_index.innerHTML=String(titleNum)+" Seconds!";
   }, 1000);
 }, 1000);
